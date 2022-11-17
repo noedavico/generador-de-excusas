@@ -1,1 +1,19 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+
+h1 {color: rgb(1, 1, 58);
+margin: 10px; 10px}
+body {background-color: mintcream;}
+
+h2 {margin: 10px 10px;}
+
+.container 
+{margin: 0 auto;
+ width: 700px;
+background-color: rgb(134, 154, 241);
+border:rgb(38, 102, 219) }
+
+.texto {
+position: absolute;
+transform: translate(-50%, -50%);
+left: 50%;
+top: 50%;
+}
